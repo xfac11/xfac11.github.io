@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot on Portfolio</title>
+    <link>https://blist.vercel.app/en/tags/godot/</link>
+    <description>Recent content in Godot on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blist.vercel.app/en/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeon-Like</title>
+      <link>https://blist.vercel.app/en/blog/dungeon-like/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/blog/dungeon-like/</guid>
+      <description>Dungeon like is a project I started after learning some Godot. I wanted to create a fully featured game with Godot so I picked a game genre that I felt had a small enough scope for me to complete. Vampire survivors and Brotato were very popular at the time so I decided to use them as inspiration for my game.
+The game is a Topdown 2D bullet heaven where I chose to use bought assets to dedicate the time to using the Godot engine and not creating the art myself.</description>
+    </item>
+  </channel>
+</rss>
